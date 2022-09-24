@@ -1,0 +1,128 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: white;
+  margin: 10px 20px;
+}
+#topofthepage {
+  display: block;
+  margin-left: 40%;
+  margin-right: 70%;
+  width: 20%;
+}
+h1 {
+  text-align: center;
+  color: hsl(0, 0%, 63%);
+}
+h4 {
+  color: hsl(0, 0%, 83%);
+  border: grey;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+p {
+  color: hsl(0, 0%, 20%);
+}
+textarea {
+  background-color: rgb(179, 241, 255);
+}
+#firstpart {
+  background-color: hsl(191, 100%, 20%);
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+#instruct {
+  color: hsl(0, 0%, 33%);
+  background-color: hsl(0, 16%, 96%);
+  padding: 1px 15px 2px 15px;
+  border-radius: 8px;
+  margin: 7px 0px;
+}
+#aboutself {
+  margin-top: px;
+  color: hsl(191, 99%, 85%);
+  background-color: hsl(191, 100%, 27%);
+  border-radius: 8px;
+  padding: 3px 10px 20px 20px;
+}
+#aboutself input {
+  background-color: white;
+  margin-left: 6px;
+  padding: 10px;
+  padding-bottom: 9px;
+  border-radius: 10px;
+  width: 150px;
+  height: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  color: hsl(0, 0%, 23%);
+}
+#aboutself .gne {
+  background-color: white;
+  margin-left: 6px;
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 500;
+  color: hsl(0, 0%, 23%);
+}
+#dob {
+  background-color: white;
+  margin-left: 6px;
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 500;
+  color: hsl(0, 0%, 23%);
+  height: 5px;
+}
+#table {
+  color: hsl(0, 0%, 30%);
+  background-color: hsl(0, 16%, 96%);
+  padding: 2px 0px 10px 10px;
+  border-radius: 6px;
+  margin-top: 7px;
+  overflow-x: auto;
+}
+table {
+  border-collapse: collapse;
+  margin-right: 10px;
+  table-layout: fixed;
+}
+#lastpart {
+  background-color: white;
+}
+#e-mail {
+  background-color: white;
+  margin-left: 6px;
+  border-radius: 6px;
+  padding: 7px;
+  color: hsl(0, 0%, 23%);
+  font-size: 15px;
+}
+button {
+  margin-left: 20px;
+  padding: 3px 18px;
+  border-radius: 6px;
+  color: hsl(0, 0%, 20%);
+  font-size: 15px;
+  font-weight: bolder;
+}
+#button {
+  background-color: hsl(191, 100%, 27%);
+  padding: 20px;
+  border-radius: 6px;
+  text-align: center;
+}
+.optionstotick {
+  text-align: center;
+  width: 100px;
+}
+a {
+  text-decoration: none;
+}
+h3 {
+  padding-right: 10px;
+  color: ;
+}
+.tablefirstrow {
+  font-weight: bold;
+}
